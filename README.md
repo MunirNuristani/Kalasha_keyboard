@@ -1,6 +1,6 @@
 # Kalasha Ala Keyboard
 
-A custom Android keyboard for the **Kalasha language** (کالاشہ) — an endangered Dardic language spoken by the Kalash people of the Chitral district in northern Pakistan.
+A custom Android keyboard for the **Kalasha language** (کلښہ الا) — an endangered Dardic language spoken by the Kalasha people of the Nuristan Province in Afghanistan.
 
 ## About
 
