@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Minimal theme for keyboard service -->
+    <style name="Theme.KalashaAlaKeyboard" parent="@android:style/Theme" />
+</resources>
